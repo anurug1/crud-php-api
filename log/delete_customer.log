@@ -1,0 +1,246 @@
+2025-03-03 14:21:44 ::1 request:{
+    "cus_id":"10",
+    "cus_name":"vakin10 chaisi",
+    "cus_username":"vaki11n10@bis.com",
+    "cus_password":"1234"
+}
+response: {"result":1,"message":"Customer deleted successfully"}
+2025-03-03 15:40:32 192.168.137.1 request:
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 15:41:02 192.168.137.1 request:{
+    "username":"vaki11n4@bis.com",
+    "password":"123"
+}
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 15:41:10 192.168.137.1 request:{
+    "cus_id":"vaki11n4@bis.com",
+    "password":"123"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:41:20 192.168.137.1 request:{
+    "cus_id":"01",
+    "password":"123"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:41:43 192.168.137.1 request:{
+    "cus_id":"1",
+    "password":"123"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:41:45 192.168.137.1 request:{
+    "cus_id":"1",
+    "password":"123"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:42:37 192.168.137.1 request:{
+    "cus_id":"1",
+    "password":"123"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:42:39 192.168.137.1 request:{
+    "cus_id":"1",
+    "password":"123"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:43:56 192.168.137.1 request:{
+    "cus_id":"44302025654",
+    "password":"123"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:45:21 192.168.137.1 request:{
+    "cus_id":"44302025654",
+    "password":"123"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:45:24 192.168.137.1 request:{
+    "cus_id":"44302025654",
+}
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 15:45:40 192.168.137.1 request:{
+    "cus_id":"44302025654"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:45:48 192.168.137.1 request:{
+    "cus_id":"1"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:45:52 192.168.137.1 request:{
+    "cus_id":1
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:45:53 192.168.137.1 request:{
+    "cus_id":1
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:46:29 192.168.137.1 request:{
+    "cus_id":1
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:46:30 192.168.137.1 request:{
+    "cus_id":1
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:46:31 192.168.137.1 request:{
+    "cus_id":1
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:46:31 192.168.137.1 request:{
+    "cus_id":1
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:46:32 192.168.137.1 request:{
+    "cus_id":1
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:46:33 192.168.137.1 request:{
+    "cus_id":1
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:46:34 192.168.137.1 request:{
+    "cus_id":1
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:46:40 192.168.137.1 request:{
+    "cus_id":"1"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:47:21 192.168.137.1 request:{
+    "cus_id":"1"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:47:22 192.168.137.1 request:{
+    "cus_id":"1"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:47:44 192.168.137.1 request:{
+    "cus_id":"1"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:47:45 192.168.137.1 request:{
+    "cus_id":"1"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:47:50 192.168.137.1 request:{
+    "cus_id":"1"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:48:06 192.168.137.1 request:{
+    "cus_id":"1"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:48:07 192.168.137.1 request:{
+    "cus_id":"1"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:48:08 192.168.137.1 request:{
+    "cus_id":"1"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:49:21 192.168.137.1 request:{
+    "cus_id":"1"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:49:22 192.168.137.1 request:{
+    "cus_id":"1"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:50:22 192.168.137.1 request:{
+    "cus_id":"44302025654"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:54:10 192.168.137.1 request:{
+    "cus_id":"44302025654"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:54:11 192.168.137.1 request:{
+    "cus_id":"44302025654"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:55:09 192.168.137.1 request:{
+    "cus_id":"44302025654"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:55:10 192.168.137.1 request:{
+    "cus_id":"44302025654"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:55:11 192.168.137.1 request:{
+    "cus_id":"44302025654"
+}
+response: {"result":0,"message":"Database error: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'asd'"}
+2025-03-03 15:56:00 192.168.137.1 request:{
+    "cus_id":"44302025654"
+}
+response: {"result":1,"message":"customer deleted successfully"}
+2025-03-03 15:58:13 192.168.137.1 request:cus_id=asdasd
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 15:58:23 192.168.137.1 request:cus_id=asd
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 15:58:27 192.168.137.1 request:cus_id=asd
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 15:59:06 192.168.137.1 request:cus_id=asdasd
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 15:59:12 192.168.137.1 request:cus_id=asd
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 15:59:53 192.168.137.1 request:cus_id=%E0%B8%9F
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 16:02:42 192.168.137.1 request:cus_id=%E0%B8%9F%E0%B8%AB%E0%B8%81
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 16:02:48 192.168.137.1 request:cus_id=%E0%B8%9F%E0%B8%AB%E0%B8%81
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 16:02:54 192.168.137.1 request:cus_id=%E0%B8%9F%E0%B8%AB%E0%B8%81
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 16:04:03 192.168.137.1 request:{
+    "cus_id":"44302025654"
+}
+response: {"result":1,"message":"customer deleted successfully"}
+2025-03-03 16:04:04 192.168.137.1 request:{
+    "cus_id":"44302025654"
+}
+response: {"result":1,"message":"customer deleted successfully"}
+2025-03-03 16:04:06 192.168.137.1 request:{
+    "cus_id":"44302025654"
+}
+response: {"result":1,"message":"customer deleted successfully"}
+2025-03-03 16:04:18 192.168.137.1 request:{
+    "cus_id":"asd"
+}
+response: {"result":1,"message":"customer deleted successfully"}
+2025-03-03 16:04:29 192.168.137.1 request:{
+    "cus_id":"asdasd"
+}
+response: {"result":1,"message":"customer deleted successfully"}
+2025-03-03 16:05:08 192.168.137.1 request:cus_id=asd
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 16:05:47 192.168.137.1 request:cus_id=%E0%B8%9F%E0%B8%AB%E0%B8%81
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 16:05:54 192.168.137.1 request:cus_id=%E0%B8%9F%E0%B8%AB%E0%B8%81
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 16:06:03 192.168.137.1 request:
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 16:09:17 192.168.137.1 request:cus_id=%E0%B8%9F%E0%B8%AB%E0%B8%81
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 16:09:26 192.168.137.1 request:cus_id=%E0%B8%9F%E0%B8%AB%E0%B8%81
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 16:09:34 192.168.137.1 request:cus_id=%E0%B8%9F%E0%B8%AB%E0%B8%81
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 16:11:02 192.168.137.1 request:cus_id=%E0%B8%9F%E0%B8%AB%E0%B8%81
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 16:11:06 192.168.137.1 request:cus_id=8
+response: {"result":0,"message":"Missing required fields"}
+2025-03-03 16:13:21 192.168.137.1 request:{"cus_id":"ฟหก"}
+response: {"result":1,"message":"customer deleted successfully"}
+2025-03-03 16:13:24 192.168.137.1 request:{"cus_id":"ฟ"}
+response: {"result":1,"message":"customer deleted successfully"}
+2025-03-03 16:14:25 192.168.137.1 request:{"cus_id":"9"}
+response: {"result":1,"message":"customer deleted successfully"}
+2025-03-03 16:14:27 192.168.137.1 request:{"cus_id":"7"}
+response: {"result":1,"message":"customer deleted successfully"}
+2025-03-03 16:14:36 192.168.137.1 request:{"cus_id":"8"}
+response: {"result":1,"message":"customer deleted successfully"}
+2025-03-03 16:14:38 192.168.137.1 request:{"cus_id":"1"}
+response: {"result":1,"message":"customer deleted successfully"}
+2025-03-03 16:14:39 192.168.137.1 request:{"cus_id":"2"}
+response: {"result":1,"message":"customer deleted successfully"}
+2025-03-03 16:14:40 192.168.137.1 request:{"cus_id":"4"}
+response: {"result":1,"message":"customer deleted successfully"}
